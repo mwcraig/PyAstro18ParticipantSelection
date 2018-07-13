@@ -1,0 +1,239 @@
+ID,geo,pos,res,Never used python,python-xp,contrib,release,tests,docs,version,git,branching,gender,race,preselect,reject
+1,North America,early-career,solar and heliospheric physics,No,<=3,No,Yes,No,Yes,Yes,No,Yes,No,,0.0,1.0
+2,North America,early-career,galaxies and galaxy clusters,No,5,No,No,Yes,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+3,other,faculty,galaxies and galaxy clusters,No,5,Yes,No,No,No,Yes,Yes,Yes,Yes,No,1.0,0.0
+4,Western Europe,undergraduate,galaxies and galaxy clusters,No,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No,0.0,1.0
+5,other,early-career,galaxies and galaxy clusters,No,5,No,Yes,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+6,Western Europe,early-career,main sequence & late type stars,No,<=3,No,No,No,Yes,Yes,Yes,Yes,No,,0.0,1.0
+7,North America,early-career,solar and heliospheric physics,No,<=3,Yes,No,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+8,North America,other,galaxies and galaxy clusters,No,5,No,No,Yes,No,Yes,Yes,Yes,No,No,1.0,0.0
+9,other,early-career,exoplanets and planet formation,No,<=3,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,0.0,0.0
+10,North America,early-career,other,No,5,Yes,No,No,No,Yes,Yes,No,No,No,0.0,0.0
+11,North America,early-career,gas and dust,No,4,No,Yes,No,No,Yes,No,Yes,No,Yes,0.0,1.0
+12,Western Europe,early-career,solar and heliospheric physics,No,<=3,No,No,Yes,No,No,Yes,Yes,Yes,No,0.0,0.0
+13,other,other,compact objects,No,5,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,0.0,0.0
+14,North America,faculty,solar and heliospheric physics,No,5,No,Yes,No,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+15,Western Europe,early-career,star formation,Yes,<=3,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,0.0,1.0
+16,North America,early-career,gas and dust,No,5,No,No,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+17,North America,research-staff,solar and heliospheric physics,No,4,No,Yes,Yes,No,No,Yes,Yes,Yes,No,0.0,0.0
+18,Western Europe,undergraduate,compact objects,No,5,Yes,No,No,No,Yes,Yes,Yes,,Yes,0.0,0.0
+19,North America,faculty,non-astronomy,No,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+20,North America,early-career,gas and dust,No,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No,1.0,0.0
+21,North America,early-career,gas and dust,No,4,Yes,Yes,No,No,No,Yes,Yes,Yes,No,0.0,0.0
+22,other,early-career,main sequence & late type stars,No,4,No,No,No,No,Yes,Yes,Yes,No,No,0.0,1.0
+23,North America,research-staff,galaxies and galaxy clusters,No,5,No,No,No,Yes,Yes,Yes,Yes,Yes,No,0.0,1.0
+24,North America,faculty,galaxies and galaxy clusters,No,5,Yes,No,No,Yes,Yes,Yes,Yes,,No,0.0,0.0
+25,Western Europe,research-staff,exoplanets and planet formation,No,5,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,0.0,0.0
+26,Western Europe,faculty,solar and heliospheric physics,No,5,No,No,No,Yes,Yes,Yes,No,Yes,No,0.0,0.0
+27,North America,early-career,non-astronomy,No,5,Yes,Yes,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+28,other,early-career,exoplanets and planet formation,No,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,0.0,0.0
+29,North America,early-career,main sequence & late type stars,No,5,No,Yes,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+30,North America,research-staff,solar and heliospheric physics,No,4,No,Yes,No,Yes,Yes,Yes,Yes,No,,1.0,0.0
+31,North America,faculty,solar and heliospheric physics,No,4,No,Yes,Yes,Yes,No,Yes,Yes,Yes,,0.0,0.0
+32,Western Europe,research-staff,solar and heliospheric physics,No,4,Yes,No,Yes,No,No,Yes,Yes,,No,0.0,0.0
+33,North America,undergraduate,exoplanets and planet formation,No,5,Yes,No,Yes,No,Yes,Yes,Yes,Yes,,0.0,1.0
+34,other,research-staff,galaxies and galaxy clusters,No,5,Yes,No,No,No,Yes,Yes,Yes,No,Yes,0.0,1.0
+35,North America,early-career,exoplanets and planet formation,No,<=3,Yes,Yes,No,No,Yes,Yes,No,No,No,0.0,0.0
+36,other,research-staff,compact objects,No,5,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+37,North America,early-career,galaxies and galaxy clusters,No,5,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,0.0,0.0
+38,North America,early-career,cosmology,No,<=3,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,1.0,1.0
+39,North America,other,supernovae,No,5,Yes,No,No,Yes,No,Yes,No,No,No,0.0,0.0
+40,Western Europe,early-career,cosmology,No,5,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,0.0,1.0
+41,North America,early-career,star formation,No,5,No,No,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+42,North America,undergraduate,galaxies and galaxy clusters,No,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+43,Western Europe,undergraduate,cosmology,No,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0
+44,North America,early-career,galaxies and galaxy clusters,No,4,No,No,Yes,No,Yes,Yes,Yes,No,Yes,1.0,1.0
+45,Western Europe,research-staff,cosmology,No,5,Yes,No,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+46,other,undergraduate,solar and heliospheric physics,No,5,No,No,No,No,Yes,No,No,Yes,No,0.0,0.0
+47,North America,research-staff,galaxies and galaxy clusters,No,4,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+48,Western Europe,early-career,main sequence & late type stars,No,5,No,No,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+49,North America,faculty,gravitational waves,No,4,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,0.0,0.0
+50,North America,research-staff,galaxies and galaxy clusters,No,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No,0.0,1.0
+51,North America,early-career,galaxies and galaxy clusters,No,<=3,No,No,No,No,No,No,Yes,No,No,1.0,0.0
+52,North America,research-staff,galaxies and galaxy clusters,No,<=3,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+53,other,early-career,galaxies and galaxy clusters,No,4,No,Yes,No,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+54,North America,other,gas and dust,No,4,Yes,No,No,No,Yes,Yes,No,Yes,No,1.0,0.0
+55,North America,early-career,other,No,5,No,No,Yes,Yes,Yes,Yes,No,,No,0.0,0.0
+56,North America,early-career,non-astronomy,No,<=3,No,No,Yes,No,No,Yes,No,Yes,Yes,0.0,0.0
+57,other,early-career,galaxies and galaxy clusters,No,4,No,No,Yes,Yes,No,Yes,Yes,Yes,No,0.0,0.0
+58,Western Europe,other,supernovae,No,5,No,No,No,Yes,Yes,No,Yes,Yes,Yes,1.0,0.0
+59,other,research-staff,exoplanets and planet formation,No,<=3,No,No,No,No,Yes,Yes,No,,,0.0,1.0
+60,North America,early-career,main sequence & late type stars,No,5,No,Yes,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+61,North America,early-career,supernovae,No,5,No,No,No,No,Yes,Yes,No,No,No,0.0,0.0
+62,Western Europe,early-career,compact objects,No,<=3,Yes,No,Yes,No,No,Yes,No,,No,0.0,0.0
+63,North America,research-staff,other,No,5,Yes,No,No,No,Yes,Yes,Yes,No,No,0.0,1.0
+64,North America,early-career,galaxies and galaxy clusters,No,5,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0
+65,North America,research-staff,non-astronomy,No,5,Yes,Yes,No,No,No,No,Yes,No,Yes,0.0,1.0
+66,Western Europe,early-career,cosmology,No,<=3,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,0.0,1.0
+67,North America,early-career,galaxies and galaxy clusters,No,4,No,No,Yes,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+68,Western Europe,research-staff,non-astronomy,No,5,Yes,No,Yes,No,Yes,No,Yes,No,No,0.0,0.0
+69,other,early-career,compact objects,No,<=3,No,Yes,No,No,No,Yes,Yes,No,No,0.0,0.0
+70,North America,undergraduate,galaxies and galaxy clusters,No,4,No,Yes,No,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+71,North America,early-career,main sequence & late type stars,No,4,No,No,Yes,Yes,No,Yes,Yes,Yes,No,0.0,0.0
+72,North America,early-career,exoplanets and planet formation,No,<=3,No,No,No,No,Yes,Yes,Yes,No,Yes,0.0,0.0
+73,North America,early-career,galaxies and galaxy clusters,No,5,Yes,No,No,Yes,Yes,Yes,Yes,No,No,0.0,1.0
+74,North America,early-career,non-astronomy,No,<=3,Yes,No,No,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+75,North America,research-staff,galaxies and galaxy clusters,No,<=3,Yes,Yes,Yes,No,No,Yes,Yes,No,No,0.0,0.0
+76,other,early-career,other,No,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,1.0
+77,other,research-staff,supernovae,No,<=3,No,No,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+78,other,research-staff,main sequence & late type stars,No,5,No,No,No,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+79,Western Europe,research-staff,compact objects,No,5,Yes,Yes,No,Yes,Yes,Yes,Yes,,No,0.0,1.0
+80,Western Europe,early-career,other,No,4,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,0.0,1.0
+81,Western Europe,research-staff,non-astronomy,No,5,Yes,No,No,No,Yes,Yes,Yes,No,No,0.0,1.0
+82,other,early-career,cosmology,No,<=3,No,Yes,No,Yes,Yes,Yes,No,Yes,,0.0,1.0
+83,Western Europe,faculty,main sequence & late type stars,No,<=3,Yes,No,No,No,No,Yes,Yes,,Yes,1.0,0.0
+84,North America,early-career,galaxies and galaxy clusters,No,5,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+85,North America,early-career,galaxies and galaxy clusters,No,<=3,Yes,Yes,Yes,Yes,No,Yes,No,,No,0.0,0.0
+86,North America,other,exoplanets and planet formation,No,5,No,No,No,No,Yes,Yes,No,No,No,0.0,0.0
+87,Western Europe,early-career,other,No,5,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,0.0,0.0
+88,North America,research-staff,main sequence & late type stars,No,<=3,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,0.0,0.0
+89,North America,early-career,other,No,4,Yes,No,No,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+90,other,early-career,galaxies and galaxy clusters,No,5,Yes,Yes,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+91,Western Europe,early-career,main sequence & late type stars,No,5,No,Yes,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+92,North America,early-career,other,No,4,Yes,Yes,No,Yes,No,Yes,Yes,No,No,0.0,0.0
+93,North America,faculty,main sequence & late type stars,No,5,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,1.0,1.0
+94,Western Europe,early-career,exoplanets and planet formation,No,5,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0
+95,North America,early-career,solar and heliospheric physics,No,4,Yes,No,No,Yes,Yes,Yes,No,No,No,0.0,1.0
+96,Western Europe,research-staff,exoplanets and planet formation,No,5,No,No,No,No,No,Yes,Yes,No,Yes,0.0,0.0
+97,North America,research-staff,main sequence & late type stars,No,5,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,0.0,1.0
+98,North America,early-career,cosmology,No,5,Yes,No,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+99,other,early-career,compact objects,No,<=3,No,No,Yes,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+100,North America,early-career,galaxies and galaxy clusters,No,5,Yes,Yes,No,No,No,Yes,Yes,No,No,0.0,0.0
+101,North America,early-career,galaxies and galaxy clusters,No,<=3,No,No,No,Yes,Yes,Yes,No,No,No,1.0,0.0
+102,other,early-career,cosmology,No,5,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,0.0
+103,North America,research-staff,compact objects,No,<=3,Yes,No,Yes,No,Yes,Yes,Yes,No,No,0.0,1.0
+104,North America,early-career,gravitational waves,No,5,Yes,No,No,No,No,Yes,Yes,No,No,0.0,1.0
+105,North America,early-career,gas and dust,No,5,No,Yes,No,No,Yes,No,Yes,No,No,0.0,0.0
+106,North America,other,exoplanets and planet formation,No,<=3,No,No,Yes,Yes,No,Yes,Yes,Yes,No,0.0,1.0
+107,other,early-career,non-astronomy,Yes,<=3,Yes,No,Yes,No,Yes,No,Yes,Yes,No,0.0,0.0
+108,North America,other,cosmology,No,4,No,Yes,No,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+109,Western Europe,early-career,galaxies and galaxy clusters,No,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,0.0,1.0
+110,North America,undergraduate,gas and dust,No,4,Yes,No,No,Yes,Yes,Yes,No,No,No,0.0,0.0
+111,North America,early-career,gravitational waves,No,<=3,No,Yes,No,Yes,Yes,Yes,No,No,Yes,0.0,0.0
+112,North America,research-staff,main sequence & late type stars,No,<=3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,No,0.0,1.0
+113,North America,early-career,solar and heliospheric physics,No,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+114,North America,early-career,exoplanets and planet formation,No,5,No,No,Yes,No,No,Yes,Yes,No,No,0.0,1.0
+115,North America,early-career,galaxies and galaxy clusters,No,5,Yes,No,No,No,Yes,Yes,No,No,No,0.0,1.0
+116,other,other,other,No,<=3,No,No,No,Yes,Yes,Yes,No,,No,0.0,0.0
+117,Western Europe,undergraduate,star formation,No,<=3,Yes,No,No,Yes,Yes,Yes,Yes,No,No,0.0,1.0
+118,North America,early-career,non-astronomy,No,5,No,Yes,No,No,Yes,Yes,No,,,0.0,1.0
+119,North America,early-career,compact objects,No,<=3,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,0.0,1.0
+120,Western Europe,other,solar and heliospheric physics,No,5,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+121,North America,early-career,gas and dust,No,4,Yes,Yes,No,Yes,Yes,Yes,Yes,,No,0.0,0.0
+122,North America,other,galaxies and galaxy clusters,No,5,No,No,No,No,Yes,Yes,Yes,No,Yes,0.0,1.0
+123,North America,early-career,solar and heliospheric physics,No,<=3,Yes,No,No,No,No,Yes,Yes,No,No,0.0,1.0
+124,North America,undergraduate,supernovae,No,5,Yes,Yes,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+125,North America,early-career,non-astronomy,No,<=3,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,0.0,0.0
+126,North America,early-career,gas and dust,No,4,Yes,No,No,Yes,No,Yes,Yes,,No,0.0,0.0
+127,Western Europe,early-career,galaxies and galaxy clusters,No,5,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,0.0,1.0
+128,North America,early-career,galaxies and galaxy clusters,No,5,Yes,Yes,Yes,Yes,No,Yes,No,No,,0.0,0.0
+129,other,early-career,galaxies and galaxy clusters,No,5,No,Yes,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+130,North America,other,exoplanets and planet formation,No,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+131,Western Europe,other,main sequence & late type stars,No,<=3,Yes,Yes,No,Yes,No,Yes,Yes,No,No,0.0,1.0
+132,other,early-career,cosmology,No,<=3,No,Yes,Yes,No,No,Yes,Yes,No,,0.0,1.0
+133,North America,faculty,compact objects,No,5,No,Yes,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+134,other,faculty,solar and heliospheric physics,No,<=3,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,0.0,0.0
+135,North America,research-staff,cosmology,No,4,Yes,No,No,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+136,North America,research-staff,compact objects,No,<=3,No,No,No,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+137,Western Europe,early-career,galaxies and galaxy clusters,No,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+138,other,undergraduate,other,No,<=3,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,0.0,1.0
+139,North America,other,non-astronomy,No,5,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,0.0,0.0
+140,North America,early-career,compact objects,No,5,No,No,No,No,No,Yes,Yes,No,No,0.0,1.0
+141,Western Europe,other,gas and dust,No,5,No,No,Yes,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+142,other,early-career,non-astronomy,No,5,No,No,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+143,North America,undergraduate,galaxies and galaxy clusters,No,5,No,Yes,Yes,No,No,Yes,No,No,,0.0,0.0
+144,North America,early-career,cosmology,No,4,No,No,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+145,North America,research-staff,galaxies and galaxy clusters,No,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,1.0,0.0
+146,other,faculty,galaxies and galaxy clusters,No,<=3,No,No,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+147,other,early-career,galaxies and galaxy clusters,No,5,Yes,Yes,No,Yes,Yes,No,No,Yes,No,0.0,0.0
+148,North America,early-career,gravitational waves,No,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,1.0,0.0
+149,North America,early-career,cosmology,No,4,No,Yes,Yes,No,Yes,Yes,Yes,No,No,0.0,1.0
+150,Western Europe,early-career,compact objects,No,4,Yes,No,Yes,No,Yes,Yes,Yes,No,,0.0,0.0
+151,North America,undergraduate,non-astronomy,No,5,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0
+152,North America,early-career,gas and dust,No,5,No,No,Yes,No,Yes,No,Yes,No,No,0.0,1.0
+153,other,early-career,galaxies and galaxy clusters,No,4,Yes,No,No,No,No,Yes,Yes,No,Yes,0.0,1.0
+154,North America,undergraduate,galaxies and galaxy clusters,No,5,Yes,Yes,Yes,No,No,Yes,Yes,No,No,0.0,0.0
+155,North America,early-career,compact objects,No,4,No,Yes,No,Yes,Yes,Yes,Yes,No,,0.0,1.0
+156,North America,research-staff,cosmology,No,5,Yes,No,No,Yes,No,Yes,Yes,No,No,0.0,1.0
+157,North America,early-career,solar and heliospheric physics,No,5,No,Yes,Yes,Yes,Yes,Yes,No,Yes,,0.0,0.0
+158,North America,early-career,galaxies and galaxy clusters,No,4,No,No,Yes,No,Yes,No,Yes,Yes,,0.0,0.0
+159,North America,early-career,galaxies and galaxy clusters,No,5,No,No,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+160,North America,early-career,exoplanets and planet formation,No,5,No,Yes,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+161,North America,research-staff,main sequence & late type stars,No,4,No,No,Yes,No,No,Yes,No,Yes,No,0.0,0.0
+162,North America,research-staff,non-astronomy,No,4,Yes,No,Yes,Yes,Yes,Yes,Yes,,No,0.0,0.0
+163,North America,other,galaxies and galaxy clusters,No,<=3,Yes,No,No,No,Yes,Yes,No,No,No,0.0,0.0
+164,North America,early-career,supernovae,No,5,Yes,No,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+165,North America,early-career,compact objects,No,5,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,1.0,0.0
+166,Western Europe,early-career,non-astronomy,No,<=3,Yes,No,No,No,No,Yes,Yes,,No,0.0,0.0
+167,North America,research-staff,other,No,5,No,Yes,No,Yes,No,Yes,No,Yes,No,0.0,0.0
+168,other,early-career,galaxies and galaxy clusters,No,5,No,Yes,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+169,North America,early-career,gravitational waves,No,<=3,Yes,No,Yes,No,Yes,Yes,Yes,,No,0.0,0.0
+170,North America,undergraduate,exoplanets and planet formation,No,4,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,0.0,1.0
+171,North America,faculty,cosmology,No,5,Yes,Yes,Yes,No,Yes,Yes,No,No,No,0.0,1.0
+172,other,early-career,galaxies and galaxy clusters,No,5,No,Yes,Yes,No,Yes,Yes,Yes,No,,0.0,1.0
+173,North America,early-career,galaxies and galaxy clusters,No,4,Yes,Yes,No,No,Yes,Yes,No,Yes,No,0.0,1.0
+174,North America,early-career,cosmology,No,4,Yes,No,Yes,Yes,No,Yes,Yes,No,No,0.0,0.0
+175,North America,undergraduate,star formation,No,5,No,No,Yes,No,Yes,No,Yes,No,No,0.0,1.0
+176,North America,early-career,cosmology,No,<=3,No,No,No,No,No,Yes,Yes,Yes,Yes,1.0,0.0
+177,Western Europe,undergraduate,main sequence & late type stars,No,4,No,No,No,Yes,Yes,Yes,No,,Yes,0.0,0.0
+178,North America,research-staff,galaxies and galaxy clusters,No,<=3,Yes,No,Yes,No,Yes,Yes,Yes,No,,0.0,0.0
+179,other,early-career,main sequence & late type stars,No,5,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,0.0,0.0
+180,North America,undergraduate,other,No,5,Yes,No,No,No,No,Yes,No,Yes,No,0.0,0.0
+181,other,other,main sequence & late type stars,No,5,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,0.0,0.0
+182,North America,early-career,main sequence & late type stars,No,4,No,No,Yes,No,No,Yes,Yes,No,No,1.0,1.0
+183,North America,early-career,cosmology,No,<=3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,0.0,0.0
+184,Western Europe,early-career,compact objects,No,5,No,No,No,No,Yes,Yes,Yes,No,,0.0,1.0
+185,North America,early-career,non-astronomy,No,5,No,Yes,No,No,No,Yes,Yes,No,Yes,0.0,1.0
+186,North America,research-staff,other,No,4,No,No,Yes,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+187,North America,other,galaxies and galaxy clusters,No,4,No,No,No,No,Yes,Yes,No,Yes,No,0.0,0.0
+188,North America,early-career,galaxies and galaxy clusters,No,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,0.0,1.0
+189,Western Europe,early-career,gas and dust,No,5,No,Yes,No,No,Yes,No,Yes,Yes,No,0.0,0.0
+190,North America,other,exoplanets and planet formation,No,5,No,No,No,Yes,No,Yes,No,,Yes,0.0,0.0
+191,North America,early-career,solar and heliospheric physics,No,5,Yes,Yes,No,No,No,Yes,No,Yes,No,0.0,0.0
+192,other,early-career,galaxies and galaxy clusters,No,5,No,No,Yes,No,Yes,Yes,No,,No,0.0,0.0
+193,North America,early-career,gas and dust,No,5,Yes,Yes,Yes,No,No,Yes,Yes,No,No,0.0,0.0
+194,North America,faculty,exoplanets and planet formation,No,4,No,Yes,Yes,Yes,No,Yes,No,No,Yes,0.0,0.0
+195,Western Europe,early-career,compact objects,No,5,Yes,No,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+196,North America,early-career,main sequence & late type stars,No,<=3,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+197,North America,undergraduate,compact objects,No,4,Yes,No,No,No,No,Yes,Yes,Yes,No,0.0,1.0
+198,North America,early-career,compact objects,No,5,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,0.0,0.0
+199,other,other,gravitational waves,No,<=3,No,No,No,Yes,Yes,Yes,No,No,No,0.0,0.0
+200,North America,early-career,galaxies and galaxy clusters,No,4,Yes,Yes,Yes,No,Yes,No,No,No,No,0.0,1.0
+201,North America,early-career,galaxies and galaxy clusters,No,5,No,No,No,No,No,Yes,Yes,No,,0.0,0.0
+202,Western Europe,early-career,gravitational waves,No,5,Yes,No,No,Yes,No,Yes,Yes,Yes,No,0.0,0.0
+203,Western Europe,research-staff,gravitational waves,No,4,Yes,No,No,No,No,Yes,Yes,No,Yes,0.0,1.0
+204,other,early-career,galaxies and galaxy clusters,No,5,No,No,No,Yes,Yes,No,Yes,,No,0.0,0.0
+205,North America,early-career,main sequence & late type stars,No,4,Yes,No,Yes,No,No,Yes,Yes,Yes,No,0.0,0.0
+206,North America,early-career,cosmology,No,5,Yes,Yes,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+207,North America,faculty,compact objects,No,<=3,No,No,Yes,Yes,No,Yes,Yes,No,No,0.0,0.0
+208,North America,early-career,exoplanets and planet formation,No,4,No,No,No,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0
+209,other,early-career,galaxies and galaxy clusters,No,5,No,Yes,Yes,No,Yes,Yes,No,No,No,0.0,0.0
+210,other,early-career,solar and heliospheric physics,No,5,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,0.0,0.0
+211,Western Europe,early-career,exoplanets and planet formation,No,<=3,Yes,No,Yes,No,Yes,Yes,No,No,No,1.0,0.0
+212,Western Europe,early-career,cosmology,No,4,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,0.0,0.0
+213,North America,early-career,other,No,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,,0.0,1.0
+214,other,early-career,main sequence & late type stars,No,<=3,Yes,Yes,Yes,No,No,Yes,Yes,No,No,0.0,1.0
+215,North America,faculty,cosmology,No,4,No,Yes,No,Yes,Yes,No,Yes,No,No,0.0,0.0
+216,North America,undergraduate,star formation,No,<=3,Yes,No,No,No,Yes,Yes,Yes,No,No,0.0,1.0
+217,Western Europe,early-career,non-astronomy,No,5,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,0.0
+218,North America,early-career,exoplanets and planet formation,No,<=3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,0.0,0.0
+219,other,early-career,exoplanets and planet formation,No,4,Yes,No,No,No,Yes,No,Yes,No,Yes,0.0,1.0
+220,other,research-staff,gravitational waves,No,4,Yes,No,Yes,Yes,Yes,No,Yes,No,,0.0,0.0
+221,North America,early-career,supernovae,No,5,No,Yes,No,Yes,No,Yes,Yes,,No,0.0,1.0
+222,North America,research-staff,galaxies and galaxy clusters,No,<=3,No,No,Yes,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+223,Western Europe,research-staff,solar and heliospheric physics,No,5,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+224,other,faculty,exoplanets and planet formation,No,<=3,No,No,Yes,No,Yes,Yes,Yes,No,No,0.0,1.0
+225,Western Europe,early-career,cosmology,No,<=3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,0.0,0.0
+226,North America,early-career,galaxies and galaxy clusters,No,5,No,No,Yes,Yes,No,Yes,Yes,No,Yes,0.0,0.0
+227,North America,early-career,main sequence & late type stars,No,5,Yes,No,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0
+228,North America,undergraduate,solar and heliospheric physics,No,5,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0
+229,other,other,galaxies and galaxy clusters,No,5,No,No,Yes,Yes,Yes,Yes,Yes,No,No,0.0,0.0
+230,Western Europe,early-career,exoplanets and planet formation,No,5,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,0.0,0.0
+231,North America,undergraduate,compact objects,No,5,No,No,Yes,Yes,No,Yes,Yes,No,No,0.0,1.0
+232,North America,early-career,main sequence & late type stars,No,4,Yes,No,No,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+233,North America,early-career,other,No,5,Yes,No,No,No,Yes,Yes,No,Yes,No,1.0,1.0
+234,Western Europe,research-staff,galaxies and galaxy clusters,No,5,Yes,Yes,No,Yes,Yes,Yes,Yes,No,,0.0,0.0
+235,North America,early-career,main sequence & late type stars,No,4,No,Yes,No,No,Yes,Yes,Yes,Yes,No,0.0,0.0
+236,other,early-career,non-astronomy,No,5,No,Yes,No,No,Yes,Yes,Yes,No,No,0.0,0.0
+237,North America,early-career,star formation,No,4,Yes,No,No,No,Yes,Yes,Yes,No,No,0.0,1.0
+238,other,undergraduate,galaxies and galaxy clusters,No,5,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0
